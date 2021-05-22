@@ -1,0 +1,5 @@
+name: Site API Key
+type: module
+description: 'Site Configuraiton form Alter.'
+package: Custom
+core_version_requirement: ^8 || ^9
